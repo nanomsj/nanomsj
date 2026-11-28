@@ -1,8 +1,12 @@
-# Hi, I'm Shijia 👋
+# Hi, I'm Shijia
 
-I'm an undergraduate student majoring in biostatistics at the School of Mathematical Sciences, Peking University. I build applied projects in AI and data science.
+I'm an undergraduate student majoring in Biostatistics at the School of Mathematical Sciences, Peking University. I build applied projects in AI and data science.
 
-🌐 [nanomsj.github.io](https://nanomsj.github.io/) · ✉️ [minsj1125@126.com](mailto:minsj1125@126.com)
+I'm curious to new things.
+
+This is my personal website: [nanomsj.github.io](https://nanomsj.github.io/).
+
+Feel free to contact me at [minsj1125@126.com](mailto:minsj1125@126.com)!
 
 ## Selected Projects
 
@@ -14,9 +18,13 @@ This project explores Bayesian approaches to sharing information across cohorts 
 
 This project focuses on optimization for microgrid energy management.
 
+*Won 2nd prize in the National Final, China Undergraduate Mathematical Contest in Modeling.*
+
 ## Tools
 
-Python · R · LaTeX
+Languages: Python · R
+
+Markup language: LaTeX · Markdown
 
 ## GitHub Activity
 
